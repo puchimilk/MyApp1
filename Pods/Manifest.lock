@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.4.3)
+  - RxSwift (6.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - RxSwift (~> 6.2)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+
+PODFILE CHECKSUM: f84b4c6499ac5f1bdaa776d7afc9c46d81fe01de
+
+COCOAPODS: 1.11.2
